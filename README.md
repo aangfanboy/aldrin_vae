@@ -1,3 +1,11 @@
+Generate cartoon faces with variational auto-encoders. Built with TensorFlow 2.0-beta1, trained 4 epochs with GTX1060 3GB and took 2 hours. Also in this software, you shall see a great use of TensorBoard. Here are results  generate with random arrays;
+
+![results](https://github.com/aangfanboy/aldrin_vae/blob/master/results.png)
+
+You can download pre-trained models from the directory named `models`
+
+Bottom, you can see files, classes in files, functions in classes and what those functions do. My class names are from TV Show named 'How I Met Your Mother', it is like this because i kinda like use the names of show characters on my code :)
+
 # **data_loader.py**
 ### Marshall
 * load_image: `loads image, no label`
@@ -27,3 +35,7 @@
 * train_model: `train model by through barney and marshall, use 'save_images_to_tensorboard' to test it`
 
 ***Summary:*** Train model
+
+[WARNING] This project still in developing faze which means that i will add more algorithms, data structures and stuff like that.
+
+Please ask if you have questions :)
