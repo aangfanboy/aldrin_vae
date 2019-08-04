@@ -3,6 +3,7 @@ Generate cartoon faces with variational auto-encoders. Built with TensorFlow 2.0
 ![results](https://github.com/aangfanboy/aldrin_vae/blob/master/results.png)
 
 You can download pre-trained models from the directory named `models`
+You can download the dataset that i used from [here](https://google.github.io/cartoonset/)
 
 Bottom, you can see files, classes in files, functions in classes and what those functions do. My class names are from TV Show named 'How I Met Your Mother', it is like this because i kinda like use the names of show characters on my code :)
 
