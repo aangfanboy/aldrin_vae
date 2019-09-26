@@ -1,4 +1,4 @@
-Generate cartoon faces with variational auto-encoders. Built with TensorFlow 2.0-beta1, trained 4 epochs with GTX1060 3GB and took 2 hours. Also in this software, you shall see a great use of TensorBoard. Here are results  generate with random bottlenecks;
+Generate cartoon faces with variational auto-encoders. Built with TensorFlow 2.0-beta1, trained 4 epochs with GTX1060 3GB and took 2 hours. Also in this software, you shall see a great use of TensorBoard. Here are results  generated with random bottlenecks;
 
 ![results](https://github.com/aangfanboy/aldrin_vae/blob/master/results.png)
 
