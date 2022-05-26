@@ -21,7 +21,7 @@ python-dateutil==2.8.0
 pytz==2019.1
 six==1.12.0
 tb-nightly==1.14.0a20190603
-tensorflow-gpu==2.0.0b1
+tensorflow-gpu==2.7.2
 termcolor==1.1.0
 tf-estimator-nightly==1.14.0.dev2019060501
 tqdm==4.32.2
